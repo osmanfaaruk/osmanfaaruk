@@ -4,7 +4,7 @@
 
 - 👨‍💻 All of my projects are available at [https://osman-faruk.web.app/](https://osman-faruk.web.app/)
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **React**
 
 - 📫 Mailk me **md.osmanfaruk59@gmail.com**
 
