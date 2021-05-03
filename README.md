@@ -10,7 +10,6 @@
 
 - ⚡ Fun fact **I am not funny**
 
-![programming](https://user-images.githubusercontent.com/76783473/116920820-ebf7c700-ac74-11eb-9825-f56f61d8bc6e.gif)
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -21,4 +20,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=usmanfaroqq&show_icons=true&locale=en" alt="usmanfaroqq" /></p>
 
 
+![programming](https://user-images.githubusercontent.com/76783473/116920820-ebf7c700-ac74-11eb-9825-f56f61d8bc6e.gif)
 
