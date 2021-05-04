@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Osman Faruk</h1>
 
-- 🌱 I’m currently learning **React, Python**
+- 🌱 I’m currently learning **React-Native and Python**
 
 - 👨‍💻 All of my projects are available at [https://osman-faruk.web.app/](https://osman-faruk.web.app/)
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **Web Development**
 
 - 📫 Mailk me **md.osmanfaruk59@gmail.com**
 
-- ⚡ Fun fact **I am not funny**
+- ⚡ Fun fact **Use Html to hack NASA**
 
 
 
