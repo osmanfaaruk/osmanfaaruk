@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **Web Development**
 
-- 📫 Mailk me **md.osmanfaruk59@gmail.com**
+- 📫 Mail me **md.osmanfaruk59@gmail.com**
 
 - ⚡ Fun fact **Use Html to hack NASA**
 
