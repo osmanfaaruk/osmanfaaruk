@@ -10,7 +10,7 @@
 
 - ⚡ Fun fact **Use Html to hack NASA**
 
-- 🤝 Connect with me <a href="https://www.linkedin.com/in/usmanfaroqq/" target="blank"><img align="center" src="https://img.icons8.com/bubbles/2x/linkedin.png" alt="" height="50" width="50" /></a>
+- 🤝 Connect with me <a href="https://www.linkedin.com/in/usmanfaroqq/" target="_blank"><img align="center" src="https://img.icons8.com/bubbles/2x/linkedin.png" alt="" height="50" width="50" /></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
