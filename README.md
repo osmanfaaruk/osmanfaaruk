@@ -4,8 +4,6 @@
 
 - 👨‍💻 All of my projects are available at [https://osman-faruk.web.app/](https://osman-faruk.web.app/)
 
-- 💬 Ask me about **Web Development**
-
 - 📫 Mail me **md.osmanfaruk59@gmail.com**
 
 - ⚡ Fun fact **Use Html to hack NASA**
