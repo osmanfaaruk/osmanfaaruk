@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Osman Faruk</h1>
 
+- ☔  Currently React Developer 
+
 - 🌱 I’m currently learning **React-Native and Python**
 
 - 👨‍💻 All of my projects are available at [https://osman-faruk.web.app/](https://osman-faruk.web.app/)
