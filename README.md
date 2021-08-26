@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning **React-Native and Python**
 
-- 👨‍💻 Portfollio **https://osman-faruk.web.app**
+- 👨‍💻 Portfolio **https://osman-faruk.web.app**
 
 - 📫 Mail me **md.osmanfaruk59@gmail.com**
 
