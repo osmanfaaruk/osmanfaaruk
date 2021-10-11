@@ -6,7 +6,9 @@
 
 - 📫 Mail me **md.osmanfaruk59@gmail.com**
 
-- <a href="https://www.linkedin.com/in/usmanfaroqq/" target="_blank"><img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/></a> <a href="https://twitter.com/usmanfaroqq" target="_blank"/><img src="https://img.icons8.com/doodle/40/000000/twitter--v1.png"/></a>
+- 📝 Resume **<a href="https://drive.google.com/file/d/1pR_NcHGGCVdh33bLl1ZRiYfZmGOjTaKU/view?usp=sharing">View</a>**
+
+ <a href="https://www.linkedin.com/in/usmanfaroqq/" target="_blank"><img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/></a> <a href="https://twitter.com/usmanfaroqq" target="_blank"/><img src="https://img.icons8.com/doodle/40/000000/twitter--v1.png"/></a>
 
 
 <!-- <h3 align="left">Languages and Tools:</h3>
@@ -14,7 +16,7 @@
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a></p>
 <br/> -->
 
-<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=usmanfaroqq&show_icons=true&locale=en&layout=compact" alt="usmanfaroqq" /></p>
+<p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=usmanfaroqq&show_icons=true&locale=en&layout=compact" alt="usmanfaroqq" /></p>
 
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=usmanfaroqq&show_icons=true&locale=en" alt="usmanfaroqq" /></p> -->
