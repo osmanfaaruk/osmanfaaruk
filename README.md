@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Osman Faruk</h1>
 
-- 🌱 Currently I am on vacation ****
+- 🌱 Currently **I am on vacation**
 
 - 👨‍💻 Portfolio **https://osman-faruk.web.app**
 
