@@ -6,7 +6,7 @@
 
 - 📫 Mail me **md.osmanfaruk59@gmail.com**
 
-- 📝 Resume **<a href="https://drive.google.com/file/d/1pR_NcHGGCVdh33bLl1ZRiYfZmGOjTaKU/view?usp=sharing">View</a>**
+<!-- - 📝 Resume **<a href="https://drive.google.com/file/d/1pR_NcHGGCVdh33bLl1ZRiYfZmGOjTaKU/view?usp=sharing">View</a>** -->
 
  <a href="https://www.linkedin.com/in/usmanfaroqq/" target="_blank"><img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/></a> <a href="https://twitter.com/usmanfaroqq" target="_blank"/><img src="https://img.icons8.com/doodle/40/000000/twitter--v1.png"/></a>
 
