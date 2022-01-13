@@ -4,7 +4,7 @@
 
 - 👨‍💻 Portfolio **https://osman-faruk.web.app**
 
-- 📫 Mail me **md.osmanfaruk59@gmail.com**
+- 📫 Mail me **osman.faruk904@gmail.com**
 
 <!-- - 📝 Resume **<a href="https://drive.google.com/file/d/1pR_NcHGGCVdh33bLl1ZRiYfZmGOjTaKU/view?usp=sharing">View</a>** -->
 
