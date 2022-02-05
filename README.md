@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Osman Faruk</h1>
+<h1 align="center">Osman Faruk</h1>
 
 - 🌱 Currently **I am on vacation**
 
