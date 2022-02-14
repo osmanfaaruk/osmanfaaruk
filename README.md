@@ -6,6 +6,8 @@
 
 - 📫 Mail **osmanfaaruk@gmail.com**
 
+- **<a href="https://vital-blog.herokuapp.com/">Last Project</a>**
+
 <!-- - 📝 Resume **<a href="https://drive.google.com/file/d/1pR_NcHGGCVdh33bLl1ZRiYfZmGOjTaKU/view?usp=sharing">View</a>** -->
 
  <a href="https://www.linkedin.com/in/osmanfaaruk/" target="_blank"><img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/></a> <a href="https://twitter.com/osmanfaaruk" target="_blank"/><img src="https://img.icons8.com/doodle/40/000000/twitter--v1.png"/></a>
