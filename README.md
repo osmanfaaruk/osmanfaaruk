@@ -6,7 +6,7 @@
 
 - 📫 Mail **osmanfaaruk@gmail.com**
 
-- **<a href="https://vital-blog.herokuapp.com/">Last Project</a>**
+
 
 <!-- - 📝 Resume **<a href="https://drive.google.com/file/d/1pR_NcHGGCVdh33bLl1ZRiYfZmGOjTaKU/view?usp=sharing">View</a>** -->
 
