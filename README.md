@@ -1,7 +1,5 @@
 <h1 align="center">Osman Faruk</h1>
 
-- 🌱 Currently **I am on vacation**
-
 - 👨‍💻 Portfolio **https://osman-faruk.web.app**
 
 - 📫 Mail **osmanfaaruk@gmail.com**
