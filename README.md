@@ -27,19 +27,3 @@ I specialize in building **high-performance web experiences** with the **MERN st
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,nodejs,express,mongodb,firebase,postgres,git,vscode,figma,vercel,netlify" />
 </p>
 
----
-
-### 📊 Performance Metrics
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=osmanfaaruk&show_icons=true&theme=transparent&hide_border=true&title_color=00D2FF&icon_color=00D2FF&text_color=808080" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osmanfaaruk&layout=compact&theme=transparent&hide_border=true&title_color=00D2FF&text_color=808080" width="48%" />
-</p>
-
-<br/>
-
-<!-- Animated Signature -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-</p>
-
-</div>
