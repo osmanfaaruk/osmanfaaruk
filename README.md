@@ -1,26 +1,45 @@
-<h1 align="center">Osman Faruk</h1>
+<div align="center">
 
-- 👨‍💻 Portfolio **https://osman-faruk.web.app**
+# 👋 I'm Osman Faruk
+### `MERN DEVELOPER`
 
-- 📫 Mail **osmanfaaruk@gmail.com**
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=00D2FF&center=true&vCenter=true&width=435&lines=Building+Scalable+Applications;Mastering+Next.js+14;MERN+Stack+Expertise" alt="Typing SVG" />
 
+<p align="center">
+  <a href="https://osman-faruk.web.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react" /></a>
+  <a href="https://linkedin.com/in/osmanfaaruk" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/osmanfaaruk" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="mailto:osmanfaaruk@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
+---
 
-<!-- - 📝 Resume **<a href="https://drive.google.com/file/d/1pR_NcHGGCVdh33bLl1ZRiYfZmGOjTaKU/view?usp=sharing">View</a>** -->
+### 🟢 About Me
+I specialize in building **high-performance web experiences** with the **MERN stack** and **Next.js**. I'm passionate about clean architecture, performance optimization, and creating digital products that matter.
 
- <a href="https://www.linkedin.com/in/osmanfaaruk/" target="_blank"><img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/></a> <a href="https://twitter.com/osmanfaaruk" target="_blank"/><img src="https://img.icons8.com/doodle/40/000000/twitter--v1.png"/></a>
+- 🏗️ **Currently:** Advanced Next.js development.
+- 🔭 **Goals:** Scaling backend systems and mastering UI transitions.
 
+---
 
-<!-- <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a></p>
-<br/> -->
+### 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,nodejs,express,mongodb,firebase,postgres,git,vscode,figma,vercel,netlify" />
+</p>
 
-<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=osmanfaaruk&show_icons=true&locale=en&layout=compact" alt="osmanfaaruk" /></p>
+---
 
+### 📊 Performance Metrics
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=osmanfaaruk&show_icons=true&theme=transparent&hide_border=true&title_color=00D2FF&icon_color=00D2FF&text_color=808080" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osmanfaaruk&layout=compact&theme=transparent&hide_border=true&title_color=00D2FF&text_color=808080" width="48%" />
+</p>
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=usmanfaroqq&show_icons=true&locale=en" alt="usmanfaroqq" /></p> -->
+<br/>
 
+<!-- Animated Signature -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</p>
 
-<!-- ![programming](https://user-images.githubusercontent.com/76783473/116920820-ebf7c700-ac74-11eb-9825-f56f61d8bc6e.gif) -->
-
+</div>
